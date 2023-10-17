@@ -1,4 +1,6 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+This is a Favorite Photos project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+
+The Favorite Photos app offers a user-friendly experience, with a home screen for convenient browsing of your entire photo collection. The second screen is dedicated to your favorite photos, allowing you to curate a personalized selection of cherished memories for easy access and enjoyment. Streamline your photo management with this intuitive mobile application.
 
 # Getting Started
 
