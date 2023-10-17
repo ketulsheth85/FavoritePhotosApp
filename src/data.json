@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+
+    "title": "Sweater",
+
+    "imageUri": "https://5.imimg.com/data5/QP/RJ/MY-4283662/fancy-baby-sweater-500x500.jpg",
+
+    "isFavorite": false
+  },
+
+  {
+    "id": 2,
+
+    "title": "Scarf",
+
+    "imageUri": "https://media.istockphoto.com/id/463334307/photo/red-scarf.jpg?s=612x612&w=0&k=20&c=4fBExD83rFTP8YreQ2IEHU5QlznPs8AgKueI3sPqIxs=",
+
+    "isFavorite": false
+  },
+
+  {
+    "id": 3,
+
+    "title": "Jacket",
+
+    "imageUri": "https://yourdesignstore.s3.amazonaws.com/uploads/yds/productImages/full/1629717737612384e9619ceYDS_Product_4@2x.jpg",
+
+    "isFavorite": false
+  },
+
+  {
+    "id": 4,
+
+    "title": "Hoodies",
+
+    "imageUri": "https://m.media-amazon.com/images/I/51PCLwOAYsL._AC_UY1100_.jpg",
+
+    "isFavorite": false
+  },
+
+  {
+    "id": 5,
+
+    "title": "Coat",
+
+    "imageUri": "https://cdni.llbean.net/is/image/wim/260347_2772_41?hei=1095&wid=950&resMode=sharp2&defaultImage=llbprod/A0211793_2",
+
+    "isFavorite": false
+  },
+
+  {
+    "id": 6,
+
+    "title": "Sock",
+
+    "imageUri": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/68c250f2-451a-47d4-a5be-de7cc13dd82a/everyday-cushioned-training-ankle-socks-DVHzV6.png",
+
+    "isFavorite": false
+  },
+
+  {
+    "id": 7,
+
+    "title": "Fleece jacket",
+
+    "imageUri": "https://cdni.llbean.net/is/image/wim/504674_1704_41?hei=1095&wid=950&resMode=sharp2&defaultImage=llbprod/A0211793_2",
+
+    "isFavorite": false
+  },
+
+  {
+    "id": 8,
+    "title": "Cardigan",
+
+    "imageUri": "https://m.media-amazon.com/images/I/81nvDjL+xjL._SX569_.jpg",
+
+    "isFavorite": false
+  }
+]
